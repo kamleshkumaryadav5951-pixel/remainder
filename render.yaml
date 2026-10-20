@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: remainder
+    env: static
+    buildCommand: ""
+    staticPublishPath: .

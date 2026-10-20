@@ -1,0 +1,11 @@
+{
+  "name": "remainder",
+  "version": "1.0.0",
+  "description": "Coding contest calendar and reminder app for phone",
+  "scripts": {
+    "start": "python3 -m http.server 8080"
+  },
+  "keywords": ["contests", "competitive-programming", "pwa", "remainder"],
+  "author": "",
+  "license": "MIT"
+}
